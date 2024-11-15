@@ -1,0 +1,6 @@
+#---- this is .gitignore file for not trackable by the git repo----
+# if we write  the name of  any file name then git will ignore to track
+
+file1.txt
+py01.py
+.env
